@@ -30,6 +30,7 @@ VolleyManager je jednoduchý informační systém určený pro trenéry, manaže
 
 - **Trenér (Admin)**: plná správa hráčů, plánování, statistiky, zprávy
 - **Hráč**: zobrazení profilu, potvrzení účasti, přístup ke svým statistikám
+- **Statistik**: tvoření událostí, tréninků, plánování, zprávy
 
 ## Spravovaná data
 
